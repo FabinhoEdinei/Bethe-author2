@@ -16,7 +16,8 @@ return (
 <section className="form">
   <form>
         
-        <h1> Faça seu Logon</h1>
+        <h1> Faça seu Logi
+N</h1>
 
           <input placeholder="Sua ID"/>
 
